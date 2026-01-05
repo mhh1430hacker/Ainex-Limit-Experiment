@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ainex"
+  given-names: "M."
+title: "The Ainex Limit: Quantifying Recursive Semantic Collapse"
+version: 1.0.0
+date-released: 2026-01-05
+url: "https://github.com/mhh1430hacker/Ainex-Limit-Experiment"
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: "Ainex"
+    given-names: "M."
+  title: "The Ainex Limit: Quantifying Recursive Semantic Collapse"
+  year: 2026
+  publisher: "GitHub"
