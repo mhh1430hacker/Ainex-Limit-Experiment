@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18157801.svg)](https://doi.org/10.5281/zenodo.18157801)
 # AINEX Law: AI Model Collapse via Semantic Contraction
 
 A rigorous empirical investigation of the AINEX Law—the mathematical principle demonstrating how AI language models lose semantic diversity when trained recursively on their own outputs.
