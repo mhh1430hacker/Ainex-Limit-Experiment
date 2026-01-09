@@ -1,0 +1,103 @@
+# Git Ignore Rules
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+.jupyter/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Large files
+*.pth
+*.bin
+*.pkl
+*.h5
+*.weights
+*.model
+
+# Cache directories
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.~*
+
+# Model cache directories
+models/
+checkpoints/
+output/
+results/
+
+# Virtual environments (if not using .venv naming)
+venv/
+env/
+ENV/
+
+# Data (if sensitive)
+data/raw/
+data/private/
+
+# Research outputs (generated)
+*.csv
+*.xlsx
+*.json (except config files)
+
+# IDE specific
+.vscode/settings.json
+.vscode/launch.json
+
+# OS specific
+.env.local
+.env.*.local
+
+# Dependency lock files (use carefully)
+# poetry.lock
+# Pipfile.lock
