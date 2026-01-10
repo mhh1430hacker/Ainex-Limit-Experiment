@@ -1,4 +1,11 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18157801.svg)](https://doi.org/10.5281/zenodo.18157801)
+
+<div align="center">
+  <img src="collapse_demo.gif" width="100%" alt="AINEX System Collapse Simulation" />
+  <br>
+  <em>Fig 1. Real-time rendering of Semantic Entropy interacting with recursive feedback loops.</em>
+</div>
+
 # AINEX Law: AI Model Collapse via Semantic Contraction
 
 A rigorous empirical investigation of the AINEX Law—the mathematical principle demonstrating how AI language models lose semantic diversity when trained recursively on their own outputs.
